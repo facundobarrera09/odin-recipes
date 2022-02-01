@@ -7,6 +7,6 @@ The Recipe Website is meant to put to practise what I have leart during the cour
 
 This includes:
     - HTML structure: HTMl boilerplate, main tags (head, body), meta information.
-    - HTML tags: <h1-6>, <p>, <strong>, <em>, <ol>, <ul>, <li>, <a>, <img>
+    - HTML tags: h1-6, p, strong, em, ol, ul, li, a, img
     - Absolute and relative links
     - File structure
